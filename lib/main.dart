@@ -104,7 +104,7 @@ class HomePage extends StatelessWidget {
               ),
               const SizedBox(height: 8),
               const Text(
-                'นี่คือรูปโปรไฟล์ของดุ๊ก พร้อมข้อความอธิบายเพิ่มเติม',
+                'นี่คือรูปโปรไฟล์ของดุ๊ก รายล่ะเอียด พร้อมข้อความอธิบายเพิ่มเติม',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 16, color: Colors.black87),
               ),
